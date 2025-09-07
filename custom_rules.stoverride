@@ -1,5 +1,6 @@
 name: 自定义规则
 desc: 相较于一些机场所提供的专用的规则配置，如果有需要进行额外配置的，可以在这边加，使用版本方便维护
+icon: https://files.catbox.moe/xuolsu.png
 #!desc=自定义规则
 rules:
   - DOMAIN-SUFFIX,tv.micu.hk,DIRECT

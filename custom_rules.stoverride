@@ -1,2 +1,2 @@
 rules:
-  - DOMAIN,tv.micu.hk,direct
+  - DOMAIN-SUFFIX,tv.micu.hk,DIRECT

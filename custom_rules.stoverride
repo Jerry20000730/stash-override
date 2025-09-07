@@ -3,4 +3,4 @@ desc: 相较于一些机场所提供的专用的规则配置，如果有需要�
 icon: https://files.catbox.moe/xuolsu.png
 #!desc=自定义规则
 rules:
-  - DOMAIN-SUFFIX,tv.micu.hk,DIRECT
+  - DOMAIN-SUFFIX,micu.hk,DIRECT
